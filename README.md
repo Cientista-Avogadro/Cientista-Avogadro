@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
  <h1>Social Networks</h1>
- <a href="https://www.linkedin.com/in/cientista-f%C3%AAnix-1608711ab/">Linkedin</a>
+ <a href="https://www.linkedin.com/in/sebasti%C3%A3o-de-sousa-moniz/">Linkedin</a>
+ <br>
  <a href="https://www.facebook.com/Cientistass">facebook</a>
 
 
