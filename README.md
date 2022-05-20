@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cientista-Avogadro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
+<img align="right" src="https://github.com/Cientista-Avogadro/Cientista-Avogadro/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of Cientista-Avogadro" width=265px height=265px/>
 
 ![Cientista-Avogadro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cientista-Avogadro&count_private=true&show_icons=true&theme=radical)
 
