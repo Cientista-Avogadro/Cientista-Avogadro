@@ -34,7 +34,7 @@ the new solutions.
   <br>
  <a href="https://twitter.com/cientista_2022">Twitter</a>
   <br>
- <a href="tel:+244947784700" style="color:red">Whatsapp personal: +244947784700</a>
+ <a href="tel:+244947784700">Whatsapp personal: +244947784700</a>
  <br>
  <a href="tel:+244998111798">Whatsapp bussiness: +244998111798</a>
 
