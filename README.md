@@ -34,11 +34,11 @@ the new solutions.
 
 <p align="left"> <a href="https://twitter.com/scientist_dev" target="blank"><img src="https://img.shields.io/twitter/follow/scientist_dev?logo=twitter&style=for-the-badge" alt="scientist_dev" /></a> </p>
 
-- 🔭 I’m currently working on [DealusinessHub | ECO | GCLUCAN](https://scientistdev-001-site1.gtempurl.com/)
+- 🔭 I’m currently working on [TailorDeal | DevTest](https://www.devtest.co.ao/)
 
 - 🌱 I’m currently learning **Blazor | React | Nextjs | C# Dotnet**
 
-- 👯 I’m looking to collaborate on [DealbusinessHub | ECO](https://estudacomigo.com/)
+- 👯 I’m looking to collaborate on [TailorDeal | DevTest](https://www.devtest.co.ao/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cientista-Avogadro](https://github.com/Cientista-Avogadro)
 
