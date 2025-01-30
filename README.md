@@ -3,7 +3,7 @@
 
 <h1>Resume</h1>
 
-#### Software Developer, with more than 4 years of development experience
+#### Software Developer, with more than 6 years of development experience
 Web, Desktop and Mobile. Has knowledge in functional programming, OOP, NodeJs,
 Typescript, Reactjs, Nextjs, Javascript, Html, Css, C#, Java, C, Sql, MongoDB, Clean
 Code, UI/UX Designer, Wordpress, Angular, etc.
