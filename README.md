@@ -34,11 +34,11 @@ the new solutions.
 
 <p align="left"> <a href="https://twitter.com/scientist_dev" target="blank"><img src="https://img.shields.io/twitter/follow/scientist_dev?logo=twitter&style=for-the-badge" alt="scientist_dev" /></a> </p>
 
-- 🔭 I’m currently working on [TailorDeal | DevTest](https://www.devtest.co.ao/)
+- 🔭 I’m currently working on [DevTest](https://www.devtest.co.ao/)
 
 - 🌱 I’m currently learning **Blazor | React | Nextjs | C# Dotnet**
 
-- 👯 I’m looking to collaborate on [TailorDeal | DevTest](https://www.devtest.co.ao/)
+- 👯 I’m looking to collaborate on [DevTest](https://www.devtest.co.ao/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cientista-Avogadro](https://github.com/Cientista-Avogadro)
 
@@ -67,8 +67,7 @@ the new solutions.
 <a href="https://instagram.com/cientista_fenix_avogadro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cientista_fenix_avogadro/" height="30" width="40" /></a>
 <a href="https://medium.com/@cientistaavogadro2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cientistaavogadro2019" height="30" width="40" /></a>
 <a href="/https://rss.com/podcasts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/" height="30" width="40" /></a>
-<a href="tel:+244947784700">Whatsapp personal: +244947784700</a>
-<a href="tel:+244998111798">Whatsapp bussiness: +244998111798</a>
+<a href="tel:+244972745066">Whatsapp: +244972745066</a>
 </p>
 
 
