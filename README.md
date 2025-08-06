@@ -1,3 +1,5 @@
+![Capa do repositório - Sebastião de Sousa Moniz](https://media.licdn.com/dms/image/v2/D4D16AQHouQoBrhUm_Q/profile-displaybackgroundimage-shrink_350_1400/B4DZhheOezG8Ak-/0/1753981979400?e=1757548800&v=beta&t=3Aks7DRvCYAFGDLR3AoVAAlBe0SsqOA3YcdjJGIWKfg)
+
 <h1 align="center">Hi 👋, I'm Sebastião de Sousa Moniz</h1>
 <h3 align="center">A passionate frontend developer from Angola</h3>
 
