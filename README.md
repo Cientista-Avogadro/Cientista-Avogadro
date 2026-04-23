@@ -1,116 +1,124 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHouQoBrhUm_Q/profile-displaybackgroundimage-shrink_350_1400/B4DZhheOezG8Ak-/0/1753981979400?e=1757548800&v=beta&t=3Aks7DRvCYAFGDLR3AoVAAlBe0SsqOA3YcdjJGIWKfg" alt="Banner de Sebastião de Sousa Moniz" width="100%"/>
-  <h1>Hi there, I'm Sebastião de Sousa Moniz 👋</h1>
-  <p><strong>A passionate Frontend Developer from Angola 🇦🇴</strong></p>
-  
+
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHouQoBrhUm_Q/profile-displaybackgroundimage-shrink_350_1400/B4DZhheOezG8Ak-/0/1753981979400?e=1757548800&v=beta&t=3Aks7DRvCYAFGDLR3AoVAAlBe0SsqOA3YcdjJGIWKfg" alt="Banner" width="100%" style="border-radius: 12px;"/>
+
+  <br/>
+
+  # Sebastião de Sousa Moniz
+
+  **`Senior Software Engineer · Frontend Specialist · Angola 🇦🇴`**
+
   <p>
-    <a href="https://www.linkedin.com/in/sebasti%C3%A3o-de-sousa-moniz/"><strong>LinkedIn</strong></a> •
-    <a href="https://github.com/Cientista-Avogadro"><strong>GitHub</strong></a> •
-    <a href="mailto:sebastiaodesousam@outlook.pt"><strong>Email</strong></a> •
-    <a href="https://www.devtest.co.ao/"><strong>DevTest</strong></a>
+    <a href="https://sebastiao-moniz.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sebasti%C3%A3o-de-sousa-moniz/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Cientista-Avogadro" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://dev.to/cientista-avogadro" target="_blank">
+      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+    </a>
+    <a href="https://www.devtest.co.ao/" target="_blank">
+      <img src="https://img.shields.io/badge/DevTest-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="DevTest"/>
+    </a>
+    <a href="https://stackoverflow.com/users/12478546/sebasti%c3%a3o-de-sousa-moniz" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+    </a>
+    <a href="https://twitter.com/scientist_dev" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://wa.me/244972745066" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    <a href="mailto:sebastiaodesousam@outlook.pt">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    </a>
   </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Software Developer with over 6 years of experience in web, desktop, and mobile development. While I have full-stack capabilities, my true passion and focus lie in the **Frontend**.
+Software Developer with **6+ years of experience** across web, desktop, and mobile platforms. While I have full-stack capabilities, my heart lives in the **Frontend** — crafting beautiful, performant, and accessible user experiences that people actually enjoy using.
 
-I'm driven by the challenge of solving complex problems and I'm always excited to discover new technologies and innovative solutions. For me, development isn't just a job; it's a passion for creating beautiful, functional, and user-centric experiences. I love sharing my knowledge with the community through open-source projects and articles.
+I'm driven by complex problems, passionate about open-source, and committed to sharing knowledge with the developer community through articles and projects.
 
-- 🔭 I’m currently working on and helping build **[DevTest](https://www.devtest.co.ao/)**.
-- 🌱 I’m currently learning **Blazor, React, Next.js, and .NET**.
-- 👯 I’m looking to collaborate on innovative open-source projects.
-- 💬 Ask me about anything related to **Frontend Development, C#, and Java**.
-- ⚡ Fun fact: I believe I'm a good person who loves a good challenge!
-
----
-
-### 🛠️ Languages and Tools
-
-Here are some of the technologies I work with:
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <strong>Frontend</strong>
-    </td>
-    <td>
-      <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img style="margin: 5px;" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="30" /></a>
-      <a href="https://angular.io" target="_blank"><img style="margin: 5px;" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="30" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" /></a>
-      <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" /></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" /></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="30" /></a>
-      <a href="https://sass-lang.com" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="30" /></a>
-      <a href="https://getbootstrap.com" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a>
-      <a href="https://redux.js.org" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="30" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Backend</strong>
-    </td>
-    <td>
-      <a href="https://nodejs.org" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a>
-      <a href="https://www.csharp.com/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30" /></a>
-      <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="30" /></a>
-      <a href="https://www.java.com" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" /></a>
-      <a href="https://expressjs.com" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="30" /></a>
-      <a href="https://spring.io/" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="30" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Databases</strong>
-    </td>
-    <td>
-      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>
-      <a href="https://www.postgresql.org" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 5px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" height="30" /></a>
-      <a href="https://firebase.google.com/" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="30" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Tools & Platforms</strong>
-    </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="30" /></a>
-      <a href="https://kubernetes.io" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="30" /></a>
-      <a href="https://www.figma.com/" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" /></a>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank"><img style="margin: 5px;" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" height="30" /></a>
-      <a href="https://postman.com" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="30" /></a>
-      <a href="https://aws.amazon.com" target="_blank"><img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" /></a>
-      <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="30" /></a>
-    </td>
-  </tr>
-</table>
+- 🔭 Currently building **[DevTest](https://www.devtest.co.ao/)** — QaaS platform for Angola's tech ecosystem
+- 🌱 Currently deepening expertise in **Blazor, React, Next.js & .NET**
+- 👯 Looking to collaborate on **innovative open-source projects**
+- 💬 Ask me about **Frontend Development, C# or Java**
+- 📫 Reach me at **sebastiaodesousam@outlook.pt**
+- ⚡ Fun fact: *I believe I'm a good person who loves a good challenge!*
 
 ---
 
-### 📊 My GitHub Stats
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cientista-avogadro&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=cientista-avogadro&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cientista-avogadro&theme=vision-friendly-dark" alt="GitHub Streak" /></p>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cientista-avogadro" alt="Trophies" /></a></p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=cientista-avogadro&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0a0a0f&title_color=c8f564&icon_color=7c6af7&text_color=b0b0c0" alt="GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cientista-avogadro&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0a0a0f&title_color=c8f564&text_color=b0b0c0" alt="Top Languages" height="165"/>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cientista-avogadro&theme=vision-friendly-dark&hide_border=true&background=0a0a0f&ring=c8f564&fire=7c6af7&currStreakLabel=c8f564" alt="GitHub Streak" width="500"/>
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=cientista-avogadro&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+
 </div>
 
 ---
 
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebasti%C3%A3o-de-sousa-moniz/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/scientist_dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://dev.to/cientista-avogadro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/12478546/sebasti%c3%a3o-de-sousa-moniz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://wa.me/244972745066" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+<div align="center">
+  <sub>Built with ❤️ from Luanda, Angola 🇦🇴</sub>
+</div>
