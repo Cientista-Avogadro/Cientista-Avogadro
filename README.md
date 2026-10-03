@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHouQoBrhUm_Q/profile-displaybackgroundimage-shrink_350_1400/B4DZhheOezG8Ak-/0/1753981979400?e=1757548800&v=beta&t=3Aks7DRvCYAFGDLR3AoVAAlBe0SsqOA3YcdjJGIWKfg" alt="Banner" width="100%" style="border-radius: 12px;"/>
+  <img src="https://sebastiao-moniz.vercel.app/og-image.png" alt="Banner" width="100%" style="border-radius: 12px;"/>
 
   <br/>
 
